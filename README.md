@@ -67,5 +67,6 @@ This project is licensed under the MIT License
 
 ## 📧 Contact  
 For questions or feedback, feel free to reach out:  
-- **Your Name**: [harisudhanbv@gmail.com]  
+- **Your Name**: [harisudhanbv@gmail.com]
+- **LinkedIn**:[https://www.linkedin.com/in/hariharasudhan-b-ab5039224/] 
 - **GitHub**: [https://github.com/Hari2605haran/] 
